@@ -1,0 +1,223 @@
+[17-Sep-2021 06:16:45 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[17-Sep-2021 06:16:45 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[17-Sep-2021 06:16:59 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[17-Sep-2021 06:16:59 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[02-Oct-2021 02:32:20 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[02-Oct-2021 02:32:20 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[05-Oct-2021 22:37:12 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[05-Oct-2021 22:37:12 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[05-Oct-2021 22:37:18 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[05-Oct-2021 22:37:18 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 03:54:00 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 03:54:00 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 03:54:09 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 03:54:09 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 04:42:45 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 04:42:45 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 04:42:50 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 04:42:50 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 04:44:16 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 04:44:16 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 04:44:44 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_article_list_update.php on line 78
+[06-Oct-2021 05:11:24 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[06-Oct-2021 06:19:59 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 06:19:59 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 06:20:06 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 06:20:06 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 06:27:12 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 06:27:12 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[06-Oct-2021 06:27:16 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[06-Oct-2021 06:27:16 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 02:52:23 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[08-Oct-2021 02:52:32 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 02:52:32 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 02:54:06 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[08-Oct-2021 03:09:09 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 03:09:09 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 05:03:04 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 05:03:04 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 05:06:05 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 05:06:05 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 05:08:04 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 05:08:04 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 05:08:16 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 05:08:16 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 05:08:17 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 05:08:17 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 05:08:19 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 05:08:19 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:12:40 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[08-Oct-2021 06:22:57 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:22:57 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:23:49 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:23:49 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:24:08 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:24:08 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:24:14 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:24:14 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:24:16 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:24:16 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:25:15 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:25:15 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:26:10 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:26:10 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:26:17 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:26:17 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:26:18 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:26:18 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:45:59 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:45:59 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:51:01 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:51:01 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[08-Oct-2021 06:51:06 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[08-Oct-2021 06:51:06 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[09-Oct-2021 08:45:55 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[12-Oct-2021 00:12:51 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[12-Oct-2021 00:12:51 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[12-Oct-2021 00:14:14 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[12-Oct-2021 00:14:14 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[12-Oct-2021 00:14:24 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[12-Oct-2021 00:14:24 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[13-Oct-2021 02:55:25 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[13-Oct-2021 02:55:25 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[15-Oct-2021 20:32:41 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[15-Oct-2021 20:32:41 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[15-Oct-2021 20:32:47 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[15-Oct-2021 20:32:47 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[16-Oct-2021 04:22:37 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[16-Oct-2021 04:22:37 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[16-Oct-2021 04:24:49 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[16-Oct-2021 04:24:49 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[16-Oct-2021 04:24:57 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[16-Oct-2021 04:24:57 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[16-Oct-2021 04:25:02 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[16-Oct-2021 04:25:02 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[16-Oct-2021 05:29:02 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:21:45 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[18-Oct-2021 03:21:45 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[18-Oct-2021 03:23:08 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:23:50 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[18-Oct-2021 03:23:50 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[18-Oct-2021 03:29:30 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[18-Oct-2021 03:29:30 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[18-Oct-2021 03:36:14 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[18-Oct-2021 03:36:14 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[18-Oct-2021 03:45:19 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[18-Oct-2021 03:45:19 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[18-Oct-2021 03:46:00 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[18-Oct-2021 03:46:00 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[18-Oct-2021 03:47:34 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:51:24 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:52:40 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:54:20 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:56:30 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:56:37 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[18-Oct-2021 03:57:29 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[19-Oct-2021 07:53:53 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[19-Oct-2021 07:53:53 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[19-Oct-2021 08:10:43 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[19-Oct-2021 08:10:43 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[19-Oct-2021 08:12:21 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[19-Oct-2021 08:12:21 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[19-Oct-2021 08:22:27 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[19-Oct-2021 08:22:27 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[19-Oct-2021 08:22:43 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[19-Oct-2021 08:22:43 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[19-Oct-2021 08:31:40 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[19-Oct-2021 08:31:40 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[20-Oct-2021 02:19:37 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[20-Oct-2021 02:19:37 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[20-Oct-2021 02:19:42 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[20-Oct-2021 02:19:42 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[20-Oct-2021 03:27:26 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[20-Oct-2021 03:28:27 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[20-Oct-2021 03:44:42 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[20-Oct-2021 03:44:42 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[20-Oct-2021 03:58:03 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[20-Oct-2021 03:59:38 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/character_list.php on line 119
+[20-Oct-2021 20:46:05 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 29
+[20-Oct-2021 20:46:05 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/test/adm/admin.lib.php on line 32
+[20-Oct-2021 22:23:30 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[20-Oct-2021 22:23:30 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[20-Oct-2021 22:23:39 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[20-Oct-2021 22:23:39 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 11:50:02 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 11:50:02 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 11:51:24 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 11:51:24 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 11:51:30 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 11:51:30 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 11:52:01 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 11:52:01 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 11:52:06 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 11:52:06 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 11:52:07 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 11:52:07 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 12:06:13 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 12:06:13 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 12:10:02 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 12:10:02 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 12:10:18 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 12:10:18 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:11:40 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 13:12:43 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 13:34:50 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:34:50 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:34:56 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:34:56 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:35:50 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:35:50 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:35:57 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:35:57 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:36:05 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:36:05 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:36:48 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:36:48 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:37:06 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:37:06 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 13:42:59 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 13:42:59 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 16:03:14 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 16:03:14 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 16:03:30 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 16:03:37 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 16:03:59 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 16:04:13 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 16:04:13 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 16:04:45 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_form_update.php on line 208
+[02-Nov-2021 16:04:55 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 16:05:15 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 16:05:26 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[02-Nov-2021 16:05:47 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 16:05:47 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 16:07:58 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 16:07:58 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 16:08:26 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 16:08:26 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[02-Nov-2021 16:08:30 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[02-Nov-2021 16:08:30 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[03-Nov-2021 01:45:47 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[03-Nov-2021 15:13:55 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[03-Nov-2021 15:13:56 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[03-Nov-2021 16:17:16 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[03-Nov-2021 16:17:16 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[03-Nov-2021 20:33:41 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[03-Nov-2021 20:47:10 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/character_list.php on line 119
+[03-Nov-2021 20:48:26 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[03-Nov-2021 20:48:26 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[03-Nov-2021 20:48:49 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[03-Nov-2021 20:48:49 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:38:41 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:38:41 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:38:47 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:38:47 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:38:55 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:38:55 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:39:10 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:39:10 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:39:27 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:39:27 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:39:29 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:39:29 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
+[04-Nov-2021 02:39:39 Asia/Seoul] PHP Warning:  array_merge(): Expected parameter 2 to be an array, null given in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 29
+[04-Nov-2021 02:39:39 Asia/Seoul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/parkmobc/public_html/lv99/adm/admin.lib.php on line 32
