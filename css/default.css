@@ -1,0 +1,214 @@
+@charset "utf-8";
+
+/* Nanum Gothic */
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* Noto Sans KR */
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+@font-face {
+	font-family: 'icon';
+		src:	url('./fonts/icomoon.eot?y5isk6');
+		src:	url('./fonts/icomoon.eot?y5isk6#iefix') format('embedded-opentype'),
+				url('./fonts/icomoon.ttf?y5isk6') format('truetype'),
+				url('./fonts/icomoon.woff?y5isk6') format('woff'),
+				url('./fonts/icomoon.svg?y5isk6#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open-Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@font-face {
+    font-family: 'InfinitySans-RegularA1';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-2ExtraLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-2ExtraLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-4Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-4Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-6Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-6Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-5Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-5Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-7ExtraBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-7ExtraBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-8Heavy';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-8Heavy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Chosunilbo_myungjo';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cafe24Danjunghae';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Danjunghae.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cafe24Dangdanghae';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.2/Cafe24Dangdanghae.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Binggrae';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Binggrae.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'S-CoreDream-2ExtraLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-2ExtraLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hardworking';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/naverfont_06@1.0/Hardworking.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'S-CoreDream-9Black';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-9Black.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.sound_only	 { display: none; }
+
+/* 초기화 */
+html {overflow-y:auto}
+body {margin:0;padding:0; }
+
+
+
+
+html, h1, h2, h3, h4, h5, h6, form, fieldset, img {margin:0;padding:0;border:0}
+h1, h2, h3, h4, h5, h6 {}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display:block}
+ul, li {margin:0;padding:0;list-style:none}
+legend {display: none;}
+label, input, button, select, img {vertical-align:middle}
+input, button {margin:0;padding:0;}
+button {cursor:pointer}
+textarea, select {font-size:1em}
+select {margin:0}
+p {margin:0;padding:0;word-break:break-all}
+hr {display:none}
+pre {overflow-x:scroll;}
+a:link, a:visited {text-decoration:none}
+a:hover, a:focus, a:active {text-decoration:none}
+
+ul,li	{ margin: 0; padding: 0; }
+/* i,sup,em	{ font-style: normal; } */
+div.clickEffect{ position:fixed; box-sizing:border-box; border-style:solid; border-color:#828282; border-radius:50%; animation:clickEffect 0.8s ease-out; z-index:5; } @keyframes clickEffect{ 0%{ opacity:1; width:0.5em; height:0.5em; margin:-0.25em; border-width:0.3rem; } 100%{ opacity:0.1; width:15em; height:15em; margin:-7.5em; border-width:0.01rem; } }
+@keyframes clickEffect{ 0%{ opacity:1; width:0.5em; height:0.5em; margin:-0.25em; border-width:0.3rem; } 100%{ opacity:0.1; width:15em; height:15em; margin:-7.5em; border-width:0.01rem; } }
+
+label	{ cursor: pointer; }
+
+img	{ max-width: 100%; vertical-align: middle; }
+
+table	{ width: 100%; }
+
+.fix-layout				{ position: relative; max-width: 1200px; margin: 0 auto; padding: 0 50px; }
+.fix-layout .fix-layout	{ padding: 0; margin:0; }
+.trans,
+.trans *,
+.trans *:after,
+.trans *:before	{ -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -ms-transition: all 0.3s ease; -o-transition: all 0.3s ease; }
+
+.none-trans,
+.none-trans *,
+.none-trans *:after,
+.none-trans *:before	{ -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; }
+
+.txt-left	{ text-align: left; }
+.txt-center	{ text-align: center; }
+.txt-right	{ text-align: right; }
+
+/* scrollbar : ie except */
+*::-webkit-scrollbar-track			{background-color: rgba(0, 0, 0, 0.2);}
+*::-webkit-scrollbar				{ height: 5px; background-color: transparent;}
+*::-webkit-scrollbar-thumb			{ background: #fff677; border: none;  }
+
+/* Animation */
+* {
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+}
+
+.no-trans,
+.no-trans *	{
+	transition: all 0s ease;
+	-webkit-transition: all 0s ease;
+	-ms-transition: all 0s ease;
+}
+
+.trans,
+.trans *	{
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+}
+
+
+/**********************
+	Form Style
+**********************/
+
+.theme-form	{ width: 100%; }

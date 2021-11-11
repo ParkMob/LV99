@@ -1,0 +1,548 @@
+
+@charset "utf-8";
+
+/** Quick Navigation **/
+#character_profile {
+  position: relative;
+  padding: 30px 0 100px;
+}
+
+#character_profile #profile_menu {
+  display: block;
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  z-index: 10;
+}
+#character_profile #profile_menu a {
+  display: block;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+/******************************************
+	프로필 이미지 영역 스타일
+*******************************************/
+
+
+.visual-area {
+
+}
+
+#character_body{
+display: grid;
+grid-template-columns:1fr 1fr ;
+padding-right:13.5%;
+padding-left:12.5%;
+margin-bottom: 5px;
+border-bottom: 2px solid;
+border-image: linear-gradient(to right, black,white, black) 1;
+}
+
+
+
+.body_img {
+max-width:800px;
+min-width: 320px;
+align-self: end;
+}
+
+.head_img_ontop  {
+background:linear-gradient(0deg, rgba(0,0,0,0.9360119047619048) 0%, rgba(255,255,255,0) 63%, rgba(255,255,255,0) 100%);
+opacity:0.6;
+position: absolute;
+width:320px;
+height: 320px;
+align-self: end;
+}	
+
+/** 흉상 레이아웃 : Body 이미지가 출력되지 않을 시 */
+#character_head {
+position: relative;
+  
+}
+#character_head .toggle-head-pannel {
+  display: none;
+}
+
+/** 흉상 레이아웃 : Body 이미지가 출력될 시 */
+
+.visual-area #character_head {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
+}
+.visual-area #character_head .contents {
+  display: none;
+}
+.visual-area #character_head.open .contents {
+  display: block;
+}
+.visual-area #character_head .toggle-head-pannel {
+  display: block;
+}
+.visual-area #character_head .toggle-head-pannel .on {
+  display: none;
+}
+.visual-area #character_head.open .toggle-head-pannel .on {
+  display: inline;
+}
+.visual-area #character_head.open .toggle-head-pannel .off {
+  display: none;
+}
+
+#character_profile .inventory-list {
+}
+#character_profile .inventory-list li {
+  display: inline-block;
+  max-width: 18.5%;
+}
+#character_profile .inventory-list .no-data {
+  max-width: 100%;
+  width: 100%;
+  line-height: 100px;
+  text-align: center;
+}
+#character_profile .inventory-list li a {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+#character_profile .inventory-list li i {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 11px;
+  padding: 0 7px;
+  min-width: 5px;
+  height: 18px;
+  line-height: 17px;
+  text-align: center;
+}
+
+#character_profile .inventory-list li i.present:before {
+  content: "\e99f";
+  font-family: "icon";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+/******************************************
+	관계란 스타일
+
+
+.relation-member-list {
+  position: relative;
+}
+.relation-member-list > li {
+  position: relative;
+  padding-left: 90px;
+  min-height: 120px;
+  margin-bottom: 20px;
+}
+.relation-member-list .ui-thumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  overflow: hidden;
+}
+.relation-member-list .rm-name {
+  font-size: 14px;
+  font-weight: 800;
+  padding-right: 150px;
+  padding-left: 10px;
+}
+
+.relation-member-list .rm-like-style {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 80px;
+}
+.relation-member-list .rm-like-style i {
+  display: block;
+  width: 13px;
+  height: 15px;
+  position: relative;
+  float: left;
+  margin: 0 1px;
+}
+.relation-member-list .rm-like-style i:before {
+  content: "\e9da";
+  font-family: "icon";
+  font-style: normal;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-family: "icon";
+}
+.relation-member-list .memo {
+  font-family: "Dotum";
+  padding: 10px;
+  margin: 5px 0;
+  line-height: 1.2em;
+  min-height: 30px;
+}
+
+.relation-member-list ol {
+  display: block;
+  position: relative;
+  clear: both;
+  text-align: right;
+  padding-right: 10px;
+}
+.relation-member-list ol li {
+  display: inline-block;
+}
+.relation-member-list ol li a.btn-log {
+  display: block;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin: 0 auto;
+}
+.relation-member-list ol li a.btn-log:before {
+  content: "\e925";
+  font-family: "icon";
+  font-size: 15px;
+  font-style: normal;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-family: "icon";
+}
+
+.relation-member-list .modify-box {
+  display: none;
+}
+.relation-member-list .state-modify {
+}
+.relation-member-list .state-modify .rm-like-style,
+.relation-member-list .state-modify .memo .ori-content,
+.relation-member-list .state-modify ol {
+  display: none;
+}
+.relation-member-list .state-modify .modify-box {
+  display: block;
+}
+
+@media all and (max-width: 500px) {
+  .relation-member-list .rm-name {
+    padding-right: 0;
+    font-size: 13px;
+  }
+  .relation-member-list .rm-like-style {
+    position: relative;
+    width: auto;
+    overflow: hidden;
+  }
+
+  .relation-member-list > li {
+    padding-left: 0px;
+  }
+  .relation-member-list .ui-thumb {
+    width: 50px;
+  }
+  .relation-member-list .info {
+    min-height: 62px;
+    margin-left: 60px;
+  }
+}
+*******************************************/
+/******************************************
+	옷장 스타일
+
+.closet-list {
+}
+.closet-list fieldset {
+  position: relative;
+  margin-top: 10px;
+  padding-left: 120px;
+  padding-right: 80px;
+}
+.closet-list fieldset input#cl_sibject {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 115px;
+}
+.closet-list fieldset input[type="submit"] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 1em;
+  height: 28px;
+  width: 75px;
+}
+
+.closet-list ul {
+  text-align: left;
+}
+.closet-list ul li {
+  position: relative;
+  padding: 10px 80px 10px 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.closet-list ul .ui-btn-box {
+  position: absolute;
+  top: 5px;
+  right: 0px;
+  bottom: 5px;
+  width: 80px;
+}
+.closet-list ul .ui-btn-box a {
+  display: block;
+  position: relative;
+  height: 100%;
+  width: 30px;
+  float: left;
+  margin-left: 5px;
+  overflow: hidden;
+  text-indent: -999px;
+  border-radius: 2px;
+}
+.closet-list ul .ui-btn-box a:before {
+  display: block;
+  position: absolute;
+  font-family: "icon";
+  font-size: 15px;
+  width: 20px;
+  height: 20px;
+  left: 50%;
+  top: 50%;
+  margin-top: -10px;
+  margin-left: -10px;
+  text-indent: 0;
+  text-align: center;
+  line-height: 20px;
+}
+
+.closet-list ul .ui-btn-box a.btn-use:before {
+  content: "\e9c3";
+  font-size: 20px;
+  line-height: 23px;
+}
+.closet-list ul .ui-btn-box a.btn-del:before {
+  content: "\e9ac";
+}
+
+.closet-list ul .selected .ui-btn-box {
+  display: none;
+}
+.closet-list ul .selected:after {
+  content: "사용중";
+  display: block;
+  position: absolute;
+  width: 70px;
+  top: 10px;
+  right: 10px;
+  text-align: center;
+}
+*******************************************/
+
+.character_cmt {
+  padding-top: 10%;
+  color: white;
+  margin: 0 auto;
+  font-size: 25px;
+  font-family: "S-CoreDream-4Regular";
+    word-break: keep-all;
+}
+
+.character_cmt.quoto {
+  font-family: 'Oswald', sans-serif;
+  font-size: 55px;
+  margin-bottom: 30px;
+    word-break: keep-all;
+}
+
+.cmt_list {
+  color: black;
+  margin: auto;
+  text-align: center;
+  max-width: 500px;
+  display: flex;
+  word-break: keep-all;
+
+}
+
+.char_profile {
+  text-align: right;
+  right: 0;
+  word-break: keep-all;
+  align-self: center;
+  min-width:260px;
+  max-width:380px;
+  justify-self:end;
+  margin-left:10px;
+
+
+}
+
+.char_name {
+  margin-top: 6px;
+
+}
+
+.char_name.engname {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  font-size: 70px;
+  line-height: 90%;
+    word-break: break-word;
+    color: white;
+}
+.char_name.belong {
+  margin-top:50px;
+  font-family: "S-CoreDream-5Medium";
+  line-height: 60%;
+  font-size: 10px;
+  letter-spacing: 5px;
+word-break: keep-all;
+
+}
+.char_name.side {
+  padding: 5px 10px;
+  font-family: "S-CoreDream-3Light";
+  font-size: 20px;
+  letter-spacing: 0px;
+}
+
+/*******
+.char_name.engname {
+  line-height: 100%;
+  font-family: "Nothing You Could Do", cursive;
+  position: absolute;
+  padding-right:140px;
+  font-size: 79px;
+  mix-blend-mode: screen;
+
+.char_name.engname {
+  display:none;}
+}******/
+
+.char_info_list {
+  color: white;
+}
+
+.char_info {
+  font-family: "S-CoreDream-3Light";
+  display: inline-block;
+  font-size: 20px;
+
+}
+
+.char_info.cate {
+  padding: 3px 10px;
+  margin-right: 10px;
+  font-family: "S-CoreDream-6Bold";
+}
+
+
+big {
+  font-size: 1.2em;
+}
+center {
+  text-align: center;
+}
+right {
+  text-align: right;
+}
+.theme-box.profile {
+  background-color: rgba(0, 0, 0, 1);
+  font-size: 15px;
+  padding: 20px;
+  line-height: 160%;
+  font-family: "Chosunilbo_myungjo";
+  color: white;
+  overflow: hidden;
+}
+
+.profile-title {
+  width: 100%;
+  height: 28px;
+  font-size: 5em;
+  font-family: "S-CoreDream-4Regular";
+}
+
+.profile-box {
+  padding-top: 40px;
+  display: none;
+}
+.profile-box.default {
+  display: block;
+}
+
+.menu__list {
+  font-size: 1.5em;
+  font-family: "S-CoreDream-3Light";
+}
+
+.menu--viola .menu__item {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: relative;
+  margin: 0 1em;
+}
+
+gothic {
+  font-family: "NanumGothic";
+}
+
+
+.char-BG{
+  display: grid;
+  grid-template-columns:2fr 0.25fr  ;
+margin-bottom:30px;
+}
+
+.char_title {
+align-self: center; 
+font-family: "S-CoreDream-6Bold";
+font-size: 8px;
+letter-spacing: 2px;
+margin-right:10px;
+justify-self: end;
+word-break: keep-all;
+line-height: 95%;
+min-width:max-content;
+}
+
+.closet_profile {
+word-break: keep-all;
+align-self: center; 
+justify-self:end;
+min-width:25px;
+}
+
+.fas.fa-play
+{font-size:7px;
+align-self: center;
+margin-bottom:5px;
+color:white;
+margin-right:4px;}
+
+
+.fas.fa-stop
+{font-size:7px;
+align-self: center;
+margin-bottom:5px;
+color:white;}
+
+.tshirt {
+text-align: center;
+}
