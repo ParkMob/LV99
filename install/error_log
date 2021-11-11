@@ -1,0 +1,1 @@
+[16-Sep-2021 21:53:49 Asia/Seoul] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'parkmobc_whippy'@'localhost' to database 'parkmobc_home' in /home4/parkmobc/public_html/test/lib/common.lib.php on line 1429
