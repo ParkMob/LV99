@@ -250,7 +250,7 @@ if($temp_cl['cl_path']) {
             <div class="char_info gender"><?=$ch['gender']?></div>
           </div>
           <div class="char_info_detail">
-            <div class="char_info cate highlight">나이</div>
+            <div class="char_info cate highlight">나이나아아아아아</div>
             <div class="char_info age"><?=$ch['age']?></div>
           </div>
           <div class="char_info_detail">
